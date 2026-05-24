@@ -7,7 +7,7 @@
 - 한국경영컨설팅학회 대상
 - 소방안전공모전 장려상
 - AI 트레이딩 대회 장려상
-- 산업경영학회 장려상
+- 산업경영학회 장려상: [certificate](awards/industrial-engineering-society-encouragement-award.pdf)
 - 포스터 논문 주저자
 
 ## Project Index
@@ -15,6 +15,7 @@
 | Area | Project | What to Review |
 |---|---|---|
 | Finance / Quant | [AI Trading Competition](projects/ai-trading-competition) | Strategy framing, financial ML workflow, report summary |
+| Public Safety / Optimization | [Heatwave Shelter Network Optimization](projects/heatwave-shelter-optimization) | Vulnerable-area shelter network redesign, location optimization, policy proposal |
 | Public Safety | [Fire Safety Prediction](projects/fire-safety-prediction) | LightGBM pipeline, damage-scale target design, safety impact |
 | Healthcare AI | [Healthcare Mortality Prediction](projects/healthcare-mortality-prediction) | Modeling workflow, explainability, restricted-data handling |
 | Real Estate AI | [Real Estate Fraud Listing Classification](projects/real-estate-fraud-classification) | Feature engineering, imputation, tree ensemble models |
@@ -34,13 +35,14 @@
 
 - Raw datasets are intentionally excluded when they are large, private, competition-restricted, or license-sensitive.
 - MIMIC-IV and similar healthcare data are not redistributed.
-- Reports/certificates that may contain personal information are summarized rather than uploaded by default.
+- Reports/certificates that may contain personal information are summarized or included only when explicitly intended for public portfolio review.
 - Notebooks are preserved where lightweight enough to help reviewers inspect modeling logic.
 
 ## Suggested Interview Reading Order
 
 1. `healthcare-mortality-prediction` for end-to-end ML workflow and model interpretation.
-2. `real-estate-fraud-classification` for tabular classification and feature engineering.
-3. `fire-safety-prediction` for public-safety problem framing.
-4. `youth-facility-location-optimization` for optimization and public data decision modeling.
-5. `ai-trading-competition` for finance-oriented modeling and competition experience.
+2. `heatwave-shelter-optimization` for public-safety location optimization and policy-oriented problem solving.
+3. `real-estate-fraud-classification` for tabular classification and feature engineering.
+4. `fire-safety-prediction` for public-safety problem framing.
+5. `youth-facility-location-optimization` for optimization and public data decision modeling.
+6. `ai-trading-competition` for finance-oriented modeling and competition experience.
