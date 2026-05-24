@@ -1,0 +1,28 @@
+# Large or restricted data
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.gz
+*.zip
+*.pkl
+*.joblib
+*.parquet
+*.h5
+*.db
+*.sqlite
+
+# Notebook/runtime artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+._*
+Thumbs.db
+
+# Local secrets
+.env
+*.key
+*.pem
